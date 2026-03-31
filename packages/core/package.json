@@ -40,7 +40,7 @@
     "colorette": "^1.2.0",
     "https-proxy-agent": "^7.0.4",
     "js-levenshtein": "^1.1.6",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "lodash.isequal": "^4.5.0",
     "minimatch": "^5.0.1",
     "node-fetch": "^2.6.1",
